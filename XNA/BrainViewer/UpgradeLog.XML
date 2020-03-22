@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BrainViewer">
+</Property><Property Name="Solution File" Value="H:\XNA\BrainViewer\BrainViewer.sln">
+</Property><Property Name="User Options File" Value="H:\XNA\BrainViewer\BrainViewer.suo">
+</Property><Property Name="Date" Value="09 October 2009">
+</Property><Property Name="Time" Value="16:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BrainViewer.sln" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BrainViewer.suo" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer.suo">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Project file successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\BrainViewer.csproj">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\Camera.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\Camera.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\MathsClass.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\MathsClass.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\Properties\AssemblyInfo.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\Program.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\Program.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\Game1.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\Game1.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\WorldEntity.cs" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\WorldEntity.cs">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\ClassDiagram1.cd" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\Game.ico" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\Game.ico">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\GameThumbnail.png" Description="File successfully backed up as H:\XNA\BrainViewer\backup\Backup\BrainViewer\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BrainViewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BrainViewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BrainViewer" Source="BrainViewer\BrainViewer.csproj" Description="Upgraded XNA Framework references to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Content" Source="08.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="08.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="08.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ball_08.x.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Colour_Cube.x.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="ball_08.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Colour_Cube.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event></UpgradeLog>

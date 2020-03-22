@@ -1,0 +1,31 @@
+NRRD0005
+# Complete NRRD file format specification at:
+# http://teem.sourceforge.net/nrrd/format.html
+content: (unsigned short)(???)
+type: unsigned short
+dimension: 4
+space: right-anterior-superior
+sizes: 13 29 30 31
+space directions: none (6.896552,0,0) (0,6.666667,0) (0,0,6.451613)
+centerings: ??? cell cell cell
+kinds: list space space space
+endian: big
+encoding: raw
+space origin: (-96.551724,-96.666667,-96.774194)
+measurement frame: (0,0,-1) (0,1,0) (1,0,0)
+data file: helix-dwi.raw
+modality:=DWMRI
+DWMRI_b-value:=800
+DWMRI_gradient_0000:=0 0 0
+DWMRI_gradient_0001:=-0.58428 0.810656 0.0381314
+DWMRI_gradient_0002:=-0.795218 0.201948 0.571703
+DWMRI_gradient_0003:=-0.547791 0.276631 -0.789557
+DWMRI_gradient_0004:=-0.942645 -0.32316 0.0835984
+DWMRI_gradient_0005:=0.539256 0.715229 -0.444578
+DWMRI_gradient_0006:=0.268812 -0.686754 -0.675359
+DWMRI_gradient_0007:=0.651675 0.572386 0.497688
+DWMRI_gradient_0008:=0.311012 0.226371 -0.923053
+DWMRI_gradient_0009:=-0.162607 -0.976848 -0.139021
+DWMRI_gradient_0010:=0.932679 -0.272611 0.236206
+DWMRI_gradient_0011:=0.157297 -0.807606 0.568357
+DWMRI_gradient_0012:=0.195385 0.279629 0.940017
